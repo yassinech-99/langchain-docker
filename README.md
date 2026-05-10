@@ -10,13 +10,13 @@
 ## Install
 
 ```bash
-pip install langchain-dockersandbox
+pip install langchain-docker
 ```
 
 or
 
 ```bash
-uv add langchain-dockersandbox
+uv add langchain-docker
 ```
 
 Requirements:
